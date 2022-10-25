@@ -19,4 +19,4 @@
     Your technical documentation should use at least one media query
 
 
-<h1>Status: Ongoing</h1<
+<h1>Status: Ongoing</h1>
